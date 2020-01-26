@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Garage from "./props/prop6"
+import App from "./apicons/api";
 
 //
 // ReactDOM.render(<Garage/>, document.getElementById( "root"));
 
-ReactDOM.render(<Garage/>, document.getElementById( "root"));
+ReactDOM.render(<App/>, document.getElementById( "root"));

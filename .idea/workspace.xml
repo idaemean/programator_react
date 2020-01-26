@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1704361-542f-43a2-af33-9a6cd5286305" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/apicons/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/apicons/contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forms/f0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forms/f1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forms/f2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forms/f3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forms/f4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forms/f5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forms/f6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forms/forms1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forms/forms2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mouting/m1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/altkom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/testowa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st3a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unmouting/um1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/updating/u1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/updating/u2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apicons/contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/apicons/contacts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +80,7 @@
       <updated>1579943078523</updated>
       <workItem from="1579943082179" duration="1966000" />
       <workItem from="1579946734676" duration="13526000" />
-      <workItem from="1580026034339" duration="17923000" />
+      <workItem from="1580026034339" duration="18476000" />
     </task>
     <task id="LOCAL-00001" summary="po 25.01">
       <created>1579963540960</created>
@@ -116,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579963540960</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="po 26.01">
+      <created>1580048184982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580048184982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,21 +104,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="po 25.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="po 25.01" />
+    <MESSAGE value="po 26.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="po 26.01" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="182" key="#ESLint" timestamp="1580040157843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="182" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1580040157843" />
-    <state x="592" y="119" key="CommitChangelistDialog2" timestamp="1579963540142">
+    <state x="592" y="119" key="CommitChangelistDialog2" timestamp="1580048758177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579963540142" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1580048166716">
+    <state x="592" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580048758177" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1580048763102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580048166716" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580048763102" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1580032423573">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

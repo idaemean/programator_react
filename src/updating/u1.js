@@ -15,6 +15,9 @@ export default class Header extends React.Component {
         super(props);
         this.state = {favoritecolor: "red", no: 1};
     }
+    //testowy komentarz dla zmian w obu gałęziach
+
+
 
     shouldComponentUpdate() {
         return this.state.no <= 5;

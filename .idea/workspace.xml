@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1704361-542f-43a2-af33-9a6cd5286305" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apicons/contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/apicons/contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,16 +95,35 @@
       <option name="project" value="LOCAL" />
       <updated>1580048184982</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TASK02: komentarz dla testu w index.js">
+      <created>1581160177444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581160177444</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="po 25.01" />
     <MESSAGE value="po 26.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="po 26.01" />
+    <MESSAGE value="TASK02: komentarz dla testu w index.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="TASK02: komentarz dla testu w index.js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="182" key="#ESLint" timestamp="1580040157843">
@@ -116,10 +134,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="592" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580048758177" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1581160860953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581160860953" />
     <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1580048763102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580048763102" />
+    <state x="667" y="255" key="VcsDiffUtil.ChangesDialog" timestamp="1581160858609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="255" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581160858609" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1580032423573">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -135,7 +161,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/forms/forms1.js</url>
           <line>27</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
